@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on IR lab @ DIKU</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Distresses using Deep Learning of Text Segments in Annual Reports</title>
+      <link>/publication/matin-2019-predicting/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/matin-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship Between Media Coverage and Measles-Mumps-Rubella (MMR) Vaccination Uptake in Denmark: Retrospective Study</title>
+      <link>/publication/info-doi-10-2196-publichealth-9544/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/info-doi-10-2196-publichealth-9544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Copenhagen team participation in the check-worthiness task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/hansen-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Copenhagen team participation in the factuality task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/wang-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wang-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Phrase or Not to Phrase--Impact of User versus System Term Dependence upon Retrieval</title>
+      <link>/publication/lioma-2018-phrase/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2018-phrase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of metrics of distance and correlation between ranked listsfor compositionality detection</title>
+      <link>/publication/dblp-journalscogsr-lioma-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscogsr-lioma-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Relevance: Creating Relevant Information (as Opposedto Retrieving it)</title>
+      <link>/publication/dblp-journalscorr-lioma-lps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscorr-lioma-lps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Law Distributions in Information Retrieval</title>
+      <link>/publication/dblp-journalstois-petersen-sl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalstois-petersen-sl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FindZebra: A search engine for rare diseases</title>
+      <link>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialised Tools are Needed when Searching the Web for Rare Disease Diagnoses</title>
+      <link>/publication/dragusin-plljchiw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dragusin-plljchiw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based term weighting for information retrieval</title>
+      <link>/publication/dblp-journalsir-blanco-l-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsir-blanco-l-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on TBAS 2012: workshop on task-based and aggregated search</title>
+      <link>/publication/dblp-journalssigir-larsen-lv-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalssigir-larsen-lv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tipping point: F-score as a function of the number of retrieveditems</title>
+      <link>/publication/dblp-journalsipm-guns-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsipm-guns-ll-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

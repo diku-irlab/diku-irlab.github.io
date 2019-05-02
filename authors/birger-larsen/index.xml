@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birger Larsen on IR lab @ DIKU</title>
+    <link>/authors/birger-larsen/</link>
+    <description>Recent content in Birger Larsen on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/birger-larsen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Copenhagen team participation in the factuality task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/wang-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wang-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Phrase or Not to Phrase--Impact of User versus System Term Dependence upon Retrieval</title>
+      <link>/publication/lioma-2018-phrase/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2018-phrase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation Measures for Relevance and Credibility in Ranked Lists</title>
+      <link>/publication/dblp-confictir-lioma-sl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-sl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of factuality, objectivity and relevance: three desideratain large-scale information retrieval?</title>
+      <link>/publication/dblp-confbdc-lioma-llh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confbdc-lioma-llh-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Relevance: Creating Relevant Information (as Opposedto Retrieving it)</title>
+      <link>/publication/dblp-journalscorr-lioma-lps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscorr-lioma-lps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the Bipartite Structure of Entity Grids for Document Coherenceand Retrieval</title>
+      <link>/publication/dblp-confictir-lioma-tspl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-tspl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Need for and Provision for an &#39;IDEAL&#39; Scholarly InformationRetrieval Test Collection</title>
+      <link>/publication/dblp-confecir-larsen-l-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confecir-larsen-l-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy and Graph Based Modelling of Document Coherence using DiscourseEntities: An Application to IR</title>
+      <link>/publication/dblp-confictir-petersen-lsl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-petersen-lsl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Compositional Term Dependence for Information Retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-slh-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-slh-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Context for Authorship Attribution - A Study of DanishSecondary Schools</title>
+      <link>/publication/dblp-confirfc-hansen-lla-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confirfc-hansen-lla-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FindZebra: A search engine for rare diseases</title>
+      <link>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on the Theory of Information Retrieval, ICTIR&#39;13, Copenhagen, Denmark, September 29 - October 02, 2013</title>
+      <link>/publication/dblp-confictir-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exploratory study into perceived task complexity, topic specificityand usefulness for integrated search</title>
+      <link>/publication/dblp-confiiix-ingwersen-llw-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confiiix-ingwersen-llw-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary experiments using subjective logic for the polyrepresentation of information needs</title>
+      <link>/publication/lioma-2012-preliminary/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2012-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary study of technical terminology for the retrieval of scientific book metadata records</title>
+      <link>/publication/larsen-2012-preliminary/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/larsen-2012-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on TBAS 2012: workshop on task-based and aggregated search</title>
+      <link>/publication/dblp-journalssigir-larsen-lv-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalssigir-larsen-lv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetorical relations for information retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-ll-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tipping point: F-score as a function of the number of retrieveditems</title>
+      <link>/publication/dblp-journalsipm-guns-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsipm-guns-ll-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Disease Diagnosis as an Information Retrieval Task</title>
+      <link>/publication/dblp-confictir-dragusin-plljw-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-dragusin-plljw-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Perspectives on Query Difficulty</title>
+      <link>/publication/dblp-confictir-lioma-ls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-ls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A subjective logic formalisation of the principle of polyrepresentationfor information needs</title>
+      <link>/publication/dblp-confiiix-lioma-lsi-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confiiix-lioma-lsi-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christina Lioma on IR lab @ DIKU</title>
+    <link>/authors/christina-lioma/</link>
+    <description>Recent content in Christina Lioma on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/christina-lioma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contextually Propagated Term Weights for Document Representation</title>
+      <link>/publication/hansensigirshort/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansensigirshort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Neural Generative Semantic Hashing</title>
+      <link>/publication/hansensigirlong/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansensigirlong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Speed Reading with Structural-Jump-LSTM</title>
+      <link>/publication/hansen-2019-neuraliclr/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2019-neuraliclr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Compositionality Detection with External Knowledge Basesand Word Embeddings</title>
+      <link>/publication/wang-lcsl-19/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wang-lcsl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Check-Worthiness Ranking with Weak Supervision: Finding Sentences for Fact-Checking</title>
+      <link>/publication/hhwww-19/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hhwww-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Sequential Music Track Skips using a Multi-RNN Approach</title>
+      <link>/publication/hansen-2019-modelling/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2019-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship Between Media Coverage and Measles-Mumps-Rubella (MMR) Vaccination Uptake in Denmark: Retrospective Study</title>
+      <link>/publication/info-doi-10-2196-publichealth-9544/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/info-doi-10-2196-publichealth-9544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Antimicrobial Drug Consumption Using Web Search Data</title>
+      <link>/publication/dalum-hansen-2018-pad-3194658-3194667/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dalum-hansen-2018-pad-3194658-3194667/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Copenhagen team participation in the check-worthiness task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/hansen-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Copenhagen team participation in the factuality task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/wang-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wang-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Phrase or Not to Phrase--Impact of User versus System Term Dependence upon Retrieval</title>
+      <link>/publication/lioma-2018-phrase/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2018-phrase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling End-of-Session Actions in Educational Systems</title>
+      <link>/publication/hansen-edm-19/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-edm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of metrics of distance and correlation between ranked listsfor compositionality detection</title>
+      <link>/publication/dblp-journalscogsr-lioma-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscogsr-lioma-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation Measures for Relevance and Credibility in Ranked Lists</title>
+      <link>/publication/dblp-confictir-lioma-sl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-sl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal Web Search Query Selection for Influenza-Like Illness (ILI)Estimation</title>
+      <link>/publication/dblp-confsigir-hansen-mcl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-hansen-mcl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Modelling For Analysing Student Interaction with EducationalSystems</title>
+      <link>/publication/dblp-journalscorrabs-1708-04164/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscorrabs-1708-04164/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart City Analytics: Ensemble-Learned Prediction of Citizen Home Care</title>
+      <link>/publication/hansen-2017-sca-3132847-3133101/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2017-sca-3132847-3133101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Series Adaptive Estimation of Vaccination Uptake Using Web SearchQueries</title>
+      <link>/publication/dblp-confwww-hansen-mcl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confwww-hansen-mcl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of factuality, objectivity and relevance: three desideratain large-scale information retrieval?</title>
+      <link>/publication/dblp-confbdc-lioma-llh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confbdc-lioma-llh-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Distributional Extensions to DFR Ranking</title>
+      <link>/publication/dblp-confcikm-petersen-sjl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-petersen-sjl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Multileaving Algorithm for Online Ranker Evaluation</title>
+      <link>/publication/dblp-confsigir-brost-csl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-brost-csl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Relevance: Creating Relevant Information (as Opposedto Retrieving it)</title>
+      <link>/publication/dblp-journalscorr-lioma-lps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscorr-lioma-lps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Learned Vaccination Uptake Prediction using Web Search Queries</title>
+      <link>/publication/dblp-confcikm-hansen-lm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-hansen-lm-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the Bipartite Structure of Entity Grids for Document Coherenceand Retrieval</title>
+      <link>/publication/dblp-confictir-lioma-tspl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-tspl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Dueling Bandits and Their Application to Online Ranker Evaluation</title>
+      <link>/publication/dblp-confcikm-brost-scl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-brost-scl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Need for and Provision for an &#39;IDEAL&#39; Scholarly InformationRetrieval Test Collection</title>
+      <link>/publication/dblp-confecir-larsen-l-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confecir-larsen-l-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Law Distributions in Information Retrieval</title>
+      <link>/publication/dblp-journalstois-petersen-sl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalstois-petersen-sl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical Recurrent Encoder-Decoder for Generative Context-AwareQuery Suggestion</title>
+      <link>/publication/dblp-confcikm-sordoni-bvlsn-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-sordoni-bvlsn-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy and Graph Based Modelling of Document Coherence using DiscourseEntities: An Application to IR</title>
+      <link>/publication/dblp-confictir-petersen-lsl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-petersen-lsl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Compositional Term Dependence for Information Retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-slh-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-slh-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Using Combinatorial Optimisation for Static Cachingof Posting Lists</title>
+      <link>/publication/dblp-confairs-petersen-sl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confairs-petersen-sl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Context for Authorship Attribution - A Study of DanishSecondary Schools</title>
+      <link>/publication/dblp-confirfc-hansen-lla-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confirfc-hansen-lla-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Generated Content Search</title>
+      <link>/publication/dblp-bookscrcp-blanco-bl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-bookscrcp-blanco-bl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Study of Search Engine Result Visualisation: Ranked ListsVersus Graphs</title>
+      <link>/publication/dblp-confeurohcir-petersen-ls-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confeurohcir-petersen-ls-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FindZebra: A search engine for rare diseases</title>
+      <link>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on the Theory of Information Retrieval, ICTIR&#39;13, Copenhagen, Denmark, September 29 - October 02, 2013</title>
+      <link>/publication/dblp-confictir-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exploratory study into perceived task complexity, topic specificityand usefulness for integrated search</title>
+      <link>/publication/dblp-confiiix-ingwersen-llw-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confiiix-ingwersen-llw-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed versus dynamic co-occurrence windows in TextRank term weightsfor information retrieval</title>
+      <link>/publication/dblp-confsigir-lu-cl-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lu-cl-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based term weighting for information retrieval</title>
+      <link>/publication/dblp-journalsir-blanco-l-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsir-blanco-l-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary experiments using subjective logic for the polyrepresentation of information needs</title>
+      <link>/publication/lioma-2012-preliminary/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2012-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary study of technical terminology for the retrieval of scientific book metadata records</title>
+      <link>/publication/larsen-2012-preliminary/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/larsen-2012-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on TBAS 2012: workshop on task-based and aggregated search</title>
+      <link>/publication/dblp-journalssigir-larsen-lv-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalssigir-larsen-lv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetorical relations for information retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-ll-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tipping point: F-score as a function of the number of retrieveditems</title>
+      <link>/publication/dblp-journalsipm-guns-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsipm-guns-ll-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zebra: Searching for rare diseases a case of task-based search in the medical domain</title>
+      <link>/publication/dragusin-2012-zebra/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dragusin-2012-zebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cascaded Classification Approach to Semantic Head Recognition</title>
+      <link>/publication/dblp-confemnlp-michelbacher-kfls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confemnlp-michelbacher-kfls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding Queries with Term and Phrase Translations in Patent Retrieval</title>
+      <link>/publication/dblp-confirfc-jochim-ls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confirfc-jochim-ls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Disease Diagnosis as an Information Retrieval Task</title>
+      <link>/publication/dblp-confictir-dragusin-plljw-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-dragusin-plljw-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sense discrimination for physics retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-ks-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-ks-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Perspectives on Query Difficulty</title>
+      <link>/publication/dblp-confictir-lioma-ls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-ls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A subjective logic formalisation of the principle of polyrepresentationfor information needs</title>
+      <link>/publication/dblp-confiiix-lioma-lsi-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confiiix-lioma-lsi-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Study into Query Translation for Patent Retrieval</title>
+      <link>/publication/jochim-2010-psq-1871888-1871899/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jochim-2010-psq-1871888-1871899/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
