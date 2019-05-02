@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niels Dalum Hansen on IR lab @ DIKU</title>
+    <link>/authors/niels-dalum-hansen/</link>
+    <description>Recent content in Niels Dalum Hansen on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/niels-dalum-hansen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relationship Between Media Coverage and Measles-Mumps-Rubella (MMR) Vaccination Uptake in Denmark: Retrospective Study</title>
+      <link>/publication/info-doi-10-2196-publichealth-9544/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/info-doi-10-2196-publichealth-9544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Antimicrobial Drug Consumption Using Web Search Data</title>
+      <link>/publication/dalum-hansen-2018-pad-3194658-3194667/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dalum-hansen-2018-pad-3194658-3194667/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of metrics of distance and correlation between ranked listsfor compositionality detection</title>
+      <link>/publication/dblp-journalscogsr-lioma-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscogsr-lioma-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal Web Search Query Selection for Influenza-Like Illness (ILI)Estimation</title>
+      <link>/publication/dblp-confsigir-hansen-mcl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-hansen-mcl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Series Adaptive Estimation of Vaccination Uptake Using Web SearchQueries</title>
+      <link>/publication/dblp-confwww-hansen-mcl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confwww-hansen-mcl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Learned Vaccination Uptake Prediction using Web Search Queries</title>
+      <link>/publication/dblp-confcikm-hansen-lm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-hansen-lm-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Compositional Term Dependence for Information Retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-slh-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-slh-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Context for Authorship Attribution - A Study of DanishSecondary Schools</title>
+      <link>/publication/dblp-confirfc-hansen-lla-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confirfc-hansen-lla-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Simonsen on IR lab @ DIKU</title>
+    <link>/authors/j-simonsen/</link>
+    <description>Recent content in J Simonsen on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/j-simonsen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Copenhagen team participation in the check-worthiness task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/hansen-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IR lab @ DIKU</title>
+    <link>/</link>
+    <description>Recent content on IR lab @ DIKU</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0200</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Two papers accepted at SIGIR</title>
+      <link>/post/sigir2019/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/post/sigir2019/</guid>
+      <description>&lt;p&gt;The IR lab got two papers accepted at the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=/publication/hansensigirlong/&gt;&lt;h3&gt;Unsupervised Neural Generative Semantic Hashing&lt;/h3&gt;&lt;/a&gt;
+Fast similarity search is a key component in large-scale information retrieval, where semantic hashing has become a popular strategy for representing documents as binary hash codes. Recent advances in this area have been obtained through neural network based models: generative models trained by learning to reconstruct the original documents. We present a novel unsupervised generative semantic hashing approach, \textit{Ranking based Semantic Hashing} (RBSH) that consists of both a variational and a ranking based component. Similarly to variational autoencoders, the variational component is trained to reconstruct the original document conditioned on its generated hash code, and as in prior work, it only considers documents individually. The ranking component solves this limitation by incorporating inter-document similarity into the hash code generation, modelling document ranking through a hinge loss. To circumvent the need for labelled data to compute the hinge loss, we use a weak labeller and thus keep the approach fully unsupervised.&lt;/p&gt;
+
+&lt;p&gt;Extensive experimental evaluation on four publicly available datasets against traditional baselines and recent state-of-the-art methods for semantic hashing shows that RBSH significantly outperforms all other methods across all evaluated hash code lengths. In fact, RBSH hash codes are able to perform similarly to state-of-the-art hash codes while using 2-4x fewer bits.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=/publication/hansensigirshort/&gt;&lt;h3&gt;Contextually Propagated Term Weights for Document Representation&lt;/h3&gt;&lt;/a&gt;
+Word embeddings predict a word from its neighbours by learning small, dense embedding vectors. In practice, this prediction  corresponds to a semantic score given to the predicted word (or term weight). We present a novel model that, given a target word, redistributes part of that word&amp;rsquo;s weight (that has been computed with word embeddings) across words occurring in similar contexts as the target word. Thus, our model aims to simulate how semantic meaning is shared by words occurring in similar contexts, which is incorporated into bag-of-words document representations. Experimental evaluation in an unsupervised setting against 8 state of the art baselines shows that our model yields the best micro and macro F1 scores across datasets of increasing difficulty.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted at WWW workshops</title>
+      <link>/post/www2019/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/post/www2019/</guid>
+      <description>&lt;p&gt;The IR lab got papers accepted at two different WWW workshops: &lt;i&gt;International Workshop on Misinformation, Computational Fact-Checking and Credible Web&lt;/i&gt; and &lt;i&gt;International Workshop of Deep Learning for Graphs and Structured Data Embedding&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=/publication/hhwww-19/&gt;&lt;h3&gt;Neural Check-Worthiness Ranking with Weak Supervision: Finding Sentences for Fact-Checking
+&lt;/h3&gt;&lt;/a&gt;
+Automatic fact-checking systems detect misinformation, such as
+fake news, by (i) selecting check-worthy sentences for fact-checking,
+(ii) gathering related information to the sentences, and (iii) inferring the factuality of the sentences. Most prior research on (i) uses
+hand-crafted features to select check-worthy sentences, and does
+not explicitly account for the recent finding that the top weighted
+terms in both check-worthy and non-check-worthy sentences are
+actually overlapping [15]. Motivated by this, we present a neural
+check-worthiness sentence ranking model that represents each
+word in a sentence by both its embedding (aiming to capture its
+semantics) and its syntactic dependencies (aiming to capture its
+role in modifying the semantics of other terms in the sentence).
+Our model is an end-to-end trainable neural network for checkworthiness ranking, which is trained on large amounts of unlabelled
+data through weak supervision. Thorough experimental evaluation
+against state of the art baselines, with and without weak supervision, shows our model to be superior at all times (+13% in MAP
+and +28% at various Precision cut-offs from the best baseline with
+statistical significance). Empirical analysis of the use of weak supervision, word embedding pretraining on domain-specific data,
+and the use of syntactic dependencies of our model reveals that
+check-worthy sentences contain notably more identical syntactic
+dependencies than non-check-worthy sentences&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=/publication/wang-lcsl-19/&gt;&lt;h3&gt;Contextual Compositionality Detection with External Knowledge Basesand Word Embeddings&lt;/h3&gt;&lt;/a&gt;
+When the meaning of a phrase cannot be inferred from the individual meanings of its words (e.g., hot dog), that phrase is said to be
+non-compositional. Automatic compositionality detection in multiword phrases is critical in any application of semantic processing,
+such as search engines [9]; failing to detect non-compositional
+phrases can hurt system effectiveness notably. Existing research
+treats phrases as either compositional or non-compositional in a
+deterministic manner. In this paper, we operationalize the viewpoint that compositionality is contextual rather than deterministic,
+i.e., that whether a phrase is compositional or non-compositional
+depends on its context. For example, the phrase “green card” is
+compositional when referring to a green colored card, whereas it is
+non-compositional when meaning permanent residence authorization. We address the challenge of detecting this type of contextual
+compositionality as follows: given a multi-word phrase, we enrich the word embedding representing its semantics with evidence
+about its global context (terms it often collocates with) as well as
+its local context (narratives where that phrase is used, which we
+call usage scenarios). We further extend this representation with information extracted from external knowledge bases. The resulting
+representation incorporates both localized context and more general usage of the phrase and allows to detect its compositionality in
+a non-deterministic and contextual way. Empirical evaluation of our
+model on a dataset of phrase compositionality1
+, manually collected
+by crowdsourcing contextual compositionality assessments, shows
+that our model outperforms state-of-the-art baselines notably on
+detecting phrase compositionality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IR lab members won the second place in WSDM Spotify Challenge</title>
+      <link>/post/wsdm2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/post/wsdm2019/</guid>
+      <description>&lt;p&gt;Researchers from the IR lab competed in the &lt;a href=&#34;https://www.crowdai.org/challenges/spotify-sequential-skip-prediction-challenge&#34;&gt;Spotify Sequential Skip Prediction Challenge&lt;/a&gt; at WSDM Cup. The task of the competition was to predict if users will skip or listen to the music they are currently streaming. The team won the second place with a deep learning approach described in the following paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=/publication/hansen-2019-modelling/&gt;&lt;h3&gt;Modelling Sequential Music Track Skips using a Multi-RNN Approach&lt;/h3&gt;&lt;/a&gt;
+Modelling sequential music skips provides streaming companies the
+ability to better understand the needs of the user base, resulting in a
+better user experience by reducing the need to manually skip certain
+music tracks. This paper describes the solution of the University of
+Copenhagen ”DIKU-IR” team in the ”Spotify Sequential Skip Prediction Challenge”, where the task was to predict the skip behaviour of
+the second half in a music listening session conditioned on the first
+half. We model this task using a Multi-RNN approach consisting
+of two distinct stacked recurrent neural networks, where one network focuses on encoding the first half of the session and the other
+network focuses on utilizing the encoding to make sequential skip
+predictions. The encoder network is initialized by a learned sessionwide music encoding, and both of them utilize a learned track embedding. Our final model consists of a majority voted ensemble of
+individually trained models, and ranked 2nd out of 45 participating
+teams in the competition with a mean average accuracy of 0.641 and
+an accuracy on the first skip prediction of 0.807.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contextually Propagated Term Weights for Document Representation</title>
+      <link>/publication/hansensigirshort/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansensigirshort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Neural Generative Semantic Hashing</title>
+      <link>/publication/hansensigirlong/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansensigirlong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Speed Reading with Structural-Jump-LSTM</title>
+      <link>/publication/hansen-2019-neuraliclr/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2019-neuraliclr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Compositionality Detection with External Knowledge Basesand Word Embeddings</title>
+      <link>/publication/wang-lcsl-19/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wang-lcsl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Check-Worthiness Ranking with Weak Supervision: Finding Sentences for Fact-Checking</title>
+      <link>/publication/hhwww-19/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hhwww-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Distresses using Deep Learning of Text Segments in Annual Reports</title>
+      <link>/publication/matin-2019-predicting/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/matin-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Sequential Music Track Skips using a Multi-RNN Approach</title>
+      <link>/publication/hansen-2019-modelling/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2019-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship Between Media Coverage and Measles-Mumps-Rubella (MMR) Vaccination Uptake in Denmark: Retrospective Study</title>
+      <link>/publication/info-doi-10-2196-publichealth-9544/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/info-doi-10-2196-publichealth-9544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Antimicrobial Drug Consumption Using Web Search Data</title>
+      <link>/publication/dalum-hansen-2018-pad-3194658-3194667/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dalum-hansen-2018-pad-3194658-3194667/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Copenhagen team participation in the check-worthiness task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/hansen-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Copenhagen team participation in the factuality task of the competition of automatic identification and verification of claims in political debates of the CLEF-2018 fact checking lab</title>
+      <link>/publication/wang-2018-copenhagen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/wang-2018-copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Phrase or Not to Phrase--Impact of User versus System Term Dependence upon Retrieval</title>
+      <link>/publication/lioma-2018-phrase/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2018-phrase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling End-of-Session Actions in Educational Systems</title>
+      <link>/publication/hansen-edm-19/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-edm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of metrics of distance and correlation between ranked listsfor compositionality detection</title>
+      <link>/publication/dblp-journalscogsr-lioma-h-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscogsr-lioma-h-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DABAI: A data driven project for e-Learning in Denmark</title>
+      <link>/publication/alstrup-2017-dabai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/alstrup-2017-dabai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation Measures for Relevance and Credibility in Ranked Lists</title>
+      <link>/publication/dblp-confictir-lioma-sl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-sl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Information Access and Retrieval Theory (QUARTZ)</title>
+      <link>/project/quantum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/project/quantum/</guid>
+      <description>&lt;p&gt;We aim to establish an European Training Network (ETN) on QUantum information Access and Retrieval Theory (QUARTZ). Towards a new approach to Information Access and Retrieval (IAR) addressing the challenges of the dynamic and multimodal nature of the data and user interaction context, QUARTZ aims to educate its Early Stage Researchers (ESRs) to adopt a novel theoretically and empirically motivated approach to IAR based on the quantum mechanical framework that gives up the notions of unimodal features and classical ranking models disconnected from context. Each ESR will be aware that the current state of the art of IAR is not sufficient to address the challenges of a dynamic, adaptive and context-aware user-machine interaction and to make a major breakthrough in the overall effectiveness of retrieval systems, and that a genuine theoretical breakthrough is on the contrary necessary. We believe that this breakthrough can be provided by quantum theory which can integrate abstract vector spaces, probability spaces and logic in a single theoretical framework which extend and generalize the classical vector, probability and logic spaces utilised in IAR. QUARTZ will consist of training activities and ESR research projects which investigate theoretical issues and evaluate methods and prototypes for adaptive IAR systems managing large data collections and meeting the end user&amp;rsquo;s information needs in a dynamic context.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: Horizon 2020 (MSCA-ITN-ETN)
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2017 - 2020&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seasonal Web Search Query Selection for Influenza-Like Illness (ILI)Estimation</title>
+      <link>/publication/dblp-confsigir-hansen-mcl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-hansen-mcl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Modelling For Analysing Student Interaction with EducationalSystems</title>
+      <link>/publication/dblp-journalscorrabs-1708-04164/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscorrabs-1708-04164/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart City Analytics: Ensemble-Learned Prediction of Citizen Home Care</title>
+      <link>/publication/hansen-2017-sca-3132847-3133101/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hansen-2017-sca-3132847-3133101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Series Adaptive Estimation of Vaccination Uptake Using Web SearchQueries</title>
+      <link>/publication/dblp-confwww-hansen-mcl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confwww-hansen-mcl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danish Center for Big Data Analytics and Innovation (DABAI)</title>
+      <link>/project/dabai/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/dabai/</guid>
+      <description>&lt;p&gt;Our main hypothesis is that uses of algorithm techniques and algorithm engineering can contribute to obtaining the required efficiency for effective Big Data analysis tools both in the other core areas and in the domains. Thus research questions will center around engineering algorithms techniques in the domains and integrating techniques in the core area.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: Innovation Fund Denmark
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2016 - 2019&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A study of factuality, objectivity and relevance: three desideratain large-scale information retrieval?</title>
+      <link>/publication/dblp-confbdc-lioma-llh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confbdc-lioma-llh-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Distributional Extensions to DFR Ranking</title>
+      <link>/publication/dblp-confcikm-petersen-sjl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-petersen-sjl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Multileaving Algorithm for Online Ranker Evaluation</title>
+      <link>/publication/dblp-confsigir-brost-csl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-brost-csl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brief Announcement: Labeling Schemes for Power-Law Graphs</title>
+      <link>/publication/dblp-confpodc-petersen-rsw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confpodc-petersen-rsw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BtB monitoreringsværktøj til at overvåge branddialogen på Snapchat - en opsamling og semantisk analyse af billeder og video</title>
+      <link>/project/btb/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/btb/</guid>
+      <description>&lt;p&gt;Business-to-business tool for monitoring brand dialouge on Snapchat - a collection and semantic analysis of images and videos&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: Innovation Fund Denmark (InnoBooster)
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2016&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Relevance: Creating Relevant Information (as Opposedto Retrieving it)</title>
+      <link>/publication/dblp-journalscorr-lioma-lps-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalscorr-lioma-lps-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Learned Vaccination Uptake Prediction using Web Search Queries</title>
+      <link>/publication/dblp-confcikm-hansen-lm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-hansen-lm-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the Bipartite Structure of Entity Grids for Document Coherenceand Retrieval</title>
+      <link>/publication/dblp-confictir-lioma-tspl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-tspl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Dueling Bandits and Their Application to Online Ranker Evaluation</title>
+      <link>/publication/dblp-confcikm-brost-scl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-brost-scl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near Optimal Adjacency Labeling Schemes for Power-Law Graphs</title>
+      <link>/publication/dblp-conficalp-petersen-rsw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-conficalp-petersen-rsw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Need for and Provision for an &#39;IDEAL&#39; Scholarly InformationRetrieval Test Collection</title>
+      <link>/publication/dblp-confecir-larsen-l-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confecir-larsen-l-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Law Distributions in Information Retrieval</title>
+      <link>/publication/dblp-journalstois-petersen-sl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalstois-petersen-sl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical Recurrent Encoder-Decoder for Generative Context-AwareQuery Suggestion</title>
+      <link>/publication/dblp-confcikm-sordoni-bvlsn-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confcikm-sordoni-bvlsn-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Epidemiology for Infectious Disease Surveillance and Vaccine Effectiveness</title>
+      <link>/project/epid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/project/epid/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: IBM and Innovation Fund Denmark
+&lt;br&gt;
+&lt;b&gt; In collaboration with&lt;/b&gt;:State Serum Institute (SSI)
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2016 - 2019&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Entropy and Graph Based Modelling of Document Coherence using DiscourseEntities: An Application to IR</title>
+      <link>/publication/dblp-confictir-petersen-lsl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-petersen-lsl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Data Analysis Service (IDAS)</title>
+      <link>/project/indu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/project/indu/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: The Danish Industry Foundation and University of Copenhagen Department of Computer Science (DIKU)
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2015 - 2018&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-Compositional Term Dependence for Information Retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-slh-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-slh-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Using Combinatorial Optimisation for Static Cachingof Posting Lists</title>
+      <link>/publication/dblp-confairs-petersen-sl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confairs-petersen-sl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Context for Authorship Attribution - A Study of DanishSecondary Schools</title>
+      <link>/publication/dblp-confirfc-hansen-lla-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confirfc-hansen-lla-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Generated Content Search</title>
+      <link>/publication/dblp-bookscrcp-blanco-bl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-bookscrcp-blanco-bl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Study of Search Engine Result Visualisation: Ranked ListsVersus Graphs</title>
+      <link>/publication/dblp-confeurohcir-petersen-ls-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confeurohcir-petersen-ls-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FindZebra: A search engine for rare diseases</title>
+      <link>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsijmi-dragusin-plljchiw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on the Theory of Information Retrieval, ICTIR&#39;13, Copenhagen, Denmark, September 29 - October 02, 2013</title>
+      <link>/publication/dblp-confictir-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialised Tools are Needed when Searching the Web for Rare Disease Diagnoses</title>
+      <link>/publication/dragusin-plljchiw-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dragusin-plljchiw-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videnkupon on Educational Data Mining</title>
+      <link>/project/viden/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/project/viden/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: Innovation Fund Denmark
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2013&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An exploratory study into perceived task complexity, topic specificityand usefulness for integrated search</title>
+      <link>/publication/dblp-confiiix-ingwersen-llw-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confiiix-ingwersen-llw-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FREJA Research Excellence Fellowship</title>
+      <link>/project/freja/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/project/freja/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: University of Copenhagen, Faculty of Science
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2012 - 2014&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fixed versus dynamic co-occurrence windows in TextRank term weightsfor information retrieval</title>
+      <link>/publication/dblp-confsigir-lu-cl-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lu-cl-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based term weighting for information retrieval</title>
+      <link>/publication/dblp-journalsir-blanco-l-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsir-blanco-l-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary experiments using subjective logic for the polyrepresentation of information needs</title>
+      <link>/publication/lioma-2012-preliminary/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lioma-2012-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary study of technical terminology for the retrieval of scientific book metadata records</title>
+      <link>/publication/larsen-2012-preliminary/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/larsen-2012-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report on TBAS 2012: workshop on task-based and aggregated search</title>
+      <link>/publication/dblp-journalssigir-larsen-lv-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalssigir-larsen-lv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetorical relations for information retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-ll-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tipping point: F-score as a function of the number of retrieveditems</title>
+      <link>/publication/dblp-journalsipm-guns-ll-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-journalsipm-guns-ll-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zebra: Searching for rare diseases a case of task-based search in the medical domain</title>
+      <link>/publication/dragusin-2012-zebra/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dragusin-2012-zebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cascaded Classification Approach to Semantic Head Recognition</title>
+      <link>/publication/dblp-confemnlp-michelbacher-kfls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confemnlp-michelbacher-kfls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding Queries with Term and Phrase Translations in Patent Retrieval</title>
+      <link>/publication/dblp-confirfc-jochim-ls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confirfc-jochim-ls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare Disease Diagnosis as an Information Retrieval Task</title>
+      <link>/publication/dblp-confictir-dragusin-plljw-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-dragusin-plljw-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sense discrimination for physics retrieval</title>
+      <link>/publication/dblp-confsigir-lioma-ks-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confsigir-lioma-ks-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Perspectives on Query Difficulty</title>
+      <link>/publication/dblp-confictir-lioma-ls-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confictir-lioma-ls-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A subjective logic formalisation of the principle of polyrepresentationfor information needs</title>
+      <link>/publication/dblp-confiiix-lioma-lsi-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dblp-confiiix-lioma-lsi-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual and Multifaceted Interactive Information Access (MUMIA)</title>
+      <link>/project/multilin/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/project/multilin/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Funded by&lt;/b&gt;: COST Action IC1002 (supported by Horizon 2020)
+&lt;br&gt;
+&lt;b&gt;Period&lt;/b&gt;: 2010 - 2014&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Study into Query Translation for Patent Retrieval</title>
+      <link>/publication/jochim-2010-psq-1871888-1871899/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jochim-2010-psq-1871888-1871899/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

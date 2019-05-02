@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on IR lab @ DIKU</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>online news media; vaccination uptake; media influence on vaccination uptake; MMR; autism</title>
+      <link>/tags/online-news-media-vaccination-uptake-media-influence-on-vaccination-uptake-mmr-autism/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/online-news-media-vaccination-uptake-media-influence-on-vaccination-uptake-mmr-autism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaussian processes</title>
+      <link>/tags/gaussian-processes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/gaussian-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linear modelling</title>
+      <link>/tags/linear-modelling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/linear-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prediction of antimicrobial drug use</title>
+      <link>/tags/prediction-of-antimicrobial-drug-use/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/prediction-of-antimicrobial-drug-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web search query frequency</title>
+      <link>/tags/web-search-query-frequency/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/web-search-query-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ensemble learning</title>
+      <link>/tags/ensemble-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/ensemble-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home care</title>
+      <link>/tags/home-care/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/home-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smart city analytics</title>
+      <link>/tags/smart-city-analytics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/smart-city-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cross-language information retrieval</title>
+      <link>/tags/cross-language-information-retrieval/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/cross-language-information-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patent retrieval</title>
+      <link>/tags/patent-retrieval/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/patent-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>query expansion</title>
+      <link>/tags/query-expansion/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/query-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>query translation</title>
+      <link>/tags/query-translation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/query-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relevance feedback</title>
+      <link>/tags/relevance-feedback/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/relevance-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistical machine translation</title>
+      <link>/tags/statistical-machine-translation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/statistical-machine-translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

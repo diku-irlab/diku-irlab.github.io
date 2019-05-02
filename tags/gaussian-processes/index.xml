@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gaussian processes on IR lab @ DIKU</title>
+    <link>/tags/gaussian-processes/</link>
+    <description>Recent content in gaussian processes on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/gaussian-processes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Antimicrobial Drug Consumption Using Web Search Data</title>
+      <link>/publication/dalum-hansen-2018-pad-3194658-3194667/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dalum-hansen-2018-pad-3194658-3194667/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

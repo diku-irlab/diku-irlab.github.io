@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on IR lab @ DIKU</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantum Information Access and Retrieval Theory (QUARTZ)</title>
+      <link>/project/quantum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/project/quantum/</guid>
+      <description>We aim to establish an European Training Network (ETN) on QUantum information Access and Retrieval Theory (QUARTZ). Towards a new approach to Information Access and Retrieval (IAR) addressing the challenges of the dynamic and multimodal nature of the data and user interaction context, QUARTZ aims to educate its Early Stage Researchers (ESRs) to adopt a novel theoretically and empirically motivated approach to IAR based on the quantum mechanical framework that gives up the notions of unimodal features and classical ranking models disconnected from context.</description>
+    </item>
+    
+    <item>
+      <title>Danish Center for Big Data Analytics and Innovation (DABAI)</title>
+      <link>/project/dabai/</link>
+      <pubDate>Sat, 02 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/dabai/</guid>
+      <description>Our main hypothesis is that uses of algorithm techniques and algorithm engineering can contribute to obtaining the required efficiency for effective Big Data analysis tools both in the other core areas and in the domains. Thus research questions will center around engineering algorithms techniques in the domains and integrating techniques in the core area.
+Funded by: Innovation Fund Denmark Period: 2016 - 2019</description>
+    </item>
+    
+    <item>
+      <title>BtB monitoreringsværktøj til at overvåge branddialogen på Snapchat - en opsamling og semantisk analyse af billeder og video</title>
+      <link>/project/btb/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/btb/</guid>
+      <description>Business-to-business tool for monitoring brand dialouge on Snapchat - a collection and semantic analysis of images and videos
+Funded by: Innovation Fund Denmark (InnoBooster) Period: 2016</description>
+    </item>
+    
+    <item>
+      <title>Computational Epidemiology for Infectious Disease Surveillance and Vaccine Effectiveness</title>
+      <link>/project/epid/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/project/epid/</guid>
+      <description>Funded by: IBM and Innovation Fund Denmark  In collaboration with:State Serum Institute (SSI) Period: 2016 - 2019</description>
+    </item>
+    
+    <item>
+      <title>Industrial Data Analysis Service (IDAS)</title>
+      <link>/project/indu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/project/indu/</guid>
+      <description>Funded by: The Danish Industry Foundation and University of Copenhagen Department of Computer Science (DIKU) Period: 2015 - 2018</description>
+    </item>
+    
+    <item>
+      <title>Videnkupon on Educational Data Mining</title>
+      <link>/project/viden/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/project/viden/</guid>
+      <description>Funded by: Innovation Fund Denmark Period: 2013</description>
+    </item>
+    
+    <item>
+      <title>FREJA Research Excellence Fellowship</title>
+      <link>/project/freja/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/project/freja/</guid>
+      <description>Funded by: University of Copenhagen, Faculty of Science Period: 2012 - 2014</description>
+    </item>
+    
+    <item>
+      <title>Multilingual and Multifaceted Interactive Information Access (MUMIA)</title>
+      <link>/project/multilin/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/project/multilin/</guid>
+      <description>Funded by: COST Action IC1002 (supported by Horizon 2020) Period: 2010 - 2014</description>
+    </item>
+    
+  </channel>
+</rss>

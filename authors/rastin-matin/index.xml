@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rastin Matin on IR lab @ DIKU</title>
+    <link>/authors/rastin-matin/</link>
+    <description>Recent content in Rastin Matin on IR lab @ DIKU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/rastin-matin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predicting Distresses using Deep Learning of Text Segments in Annual Reports</title>
+      <link>/publication/matin-2019-predicting/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/matin-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
